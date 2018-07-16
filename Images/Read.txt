@@ -1,0 +1,1 @@
+This folder holds the image and the resultant images that were tested with this algorithm
